@@ -1,6 +1,5 @@
-# Bloxflip-Mines-Predictor-Discord-Bot
 
-![image](https://user-images.githubusercontent.com/98252854/201436470-34c74a88-60c0-443d-a172-c07551284589.png)
+
 
 ## 📝Features and Usage
 /mines (tile_amt) (round_id)\
@@ -15,3 +14,4 @@ chance displayed on embed completely random though 🤷‍♂️
 ## completely random mines predictor bot DO NOT SELL IT.
 #### if u repost or distribute with no credits im prob gonna take down.
 
+c3228d23bf7bd2bfd1d191353e54e5e7268e2dd1a459e54f06bb3d1c70319879
